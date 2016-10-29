@@ -1,5 +1,5 @@
 upstream project {
-  server 139.59.36.122:3000
+  server 139.59.36.122:3000;
 }
 
 server {
